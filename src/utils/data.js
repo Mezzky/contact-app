@@ -4,7 +4,7 @@ const getData = () => {
       id: 1,
       name: 'Gilbakra Feral',
       tag: 'dimasmds',
-      imageUrl: '/images/dimasmds.jpeg'
+      imageUrl: '/images/arifaizin.jpeg'
     },
     {
       id: 2,
@@ -16,7 +16,13 @@ const getData = () => {
       id: 3,
       name: 'Rahmat Fajri',
       tag: 'rfajri27',
-      imageUrl: '/images/rfajri27.jpeg',
+      imageUrl: '/images/arifaizin.jpeg',
+    },
+    {
+      id: 4,
+      name: 'Ali Racing',
+      tag: 'alircing',
+      imageUrl: '/images/arifaizin.jpeg',
     },
   ];
 }
