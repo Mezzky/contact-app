@@ -1,3 +1,3 @@
 # React Contact App
 
-Aplikasi ini dibuat menggunakan React sebagai proyek latihan
+Aplikasi ini dibuat menggunakan R eact sebagai proyek latihan
