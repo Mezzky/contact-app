@@ -3,7 +3,7 @@ import React from 'react'
 
 // eslint-disable-next-line react/prop-types
 const DeleteButton = ({id, onDelete}) => {
-  return <button c l a s s Name='contact-item__delete' onClick={() => onDelete(id)}>X</button>
+  return <button c l a s s N ame='contact-item__delete' onClick={() => onDelete(id)}>X</button>
 }
 
 export default DeleteButton
