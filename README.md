@@ -1,3 +1,3 @@
 # ReactJS Contact App
 
-Aplikasi ini dibuat menggunakan React sebagai proyek l a t ihan
+Aplikasi ini dibuat menggunakan React sebagai proyek l a tihan
